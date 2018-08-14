@@ -1,0 +1,1 @@
+使用测试APP调用AAR ccorenfc-release.aar 实现对NFC的访问，具体使用方式请参阅pdf文档
